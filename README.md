@@ -47,7 +47,7 @@ If you find this work useful for your research, please consider citing:
   2. Follow the [instructions](https://github.com/nutonomy/nuscenes-devkit#prediction-challenge) of nuScenes prediction challenge. Download and install the [map expansion](https://github.com/nutonomy/nuscenes-devkit#map-expansion).
   3. Run our [script](data_util/process_nuscenes.py) to obtain a processed version of the nuScenes dataset under [datasets/nuscenes_pred](datasets/nuscenes_pred):
       ```
-      python data/process_nuscenes.py --data_root <PATH_TO_NUSCENES>
+      python data_util/process_nuscenes.py --data_root <PATH_TO_NUSCENES>
       ``` 
 
 # Training
