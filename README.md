@@ -2,7 +2,7 @@
 # PreTraM
 This repo contains the official implementation of our paper:
   
-PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map
+**PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map**,
 by *Chenfeng Xu, Tian Li, Chen Tang, Lingfeng Sun, Kurt Keutzer ,Masayoshi Tomizuka, Alireza Fathi, Wei Zhan*
 
 **ECCV 2022**  [paper](https://arxiv.org/abs/2204.10435)
